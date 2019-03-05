@@ -23,7 +23,7 @@ DATADIR='./data'
 # alex.bushsmallie
 #
 
-TOKEN='1568581606494196|rP29jcW8DGq_6jDjzOqq4HL56Fg'
+TOKEN='xxx81606494196|xxxDGq_6jDjzOqq4HL56Fg'
 
 #FACEBOOK_GROUP={}
 #FACEBOOK_GROUP["Unofficial Cheltenham Township, PA"]='25160801076'
